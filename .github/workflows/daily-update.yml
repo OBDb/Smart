@@ -13,8 +13,8 @@ permissions:
 
 # Make prefixes for this repo
 env:
-  FILTER_PREFIX: Make-
-  SIGNAL_PREFIX: MAKE
+  FILTER_PREFIX: Smart-
+  SIGNAL_PREFIX: SMART
 
 concurrency:
   group: "data-update"
